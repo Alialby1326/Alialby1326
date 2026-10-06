@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm an Electrical Engineering student at George Mason University<br>
-  passionate about <b>Embedded Systems</b>, <b>Robotics & Autonomous Systems</b>, and <b>Physical AI</b>
+  passionate about <b>Embedded Systems</b>, <b>Robotics & Autonomous Systems</b>, and <b>Edge AI</b>
 </p>
 
 ---
