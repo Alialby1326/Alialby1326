@@ -16,6 +16,12 @@
 
 ---
 
+## 💻 Software projects
+
+| Project | Description |
+|---|---|
+| **IntroLife** 📓 | Cross-platform, end-to-end encrypted Introspection app being built with React Native (Expo), TypeScript, Supabase, and Postgres *(private repo, in development)* |
+
 ## 📫 Connect with me!
 
 <p align="center">
