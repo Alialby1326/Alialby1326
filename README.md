@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Software projects
+## 💻 Other software projects
 
 | Project | Description |
 |---|---|
